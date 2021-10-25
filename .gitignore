@@ -1,0 +1,21 @@
+#IntelliJ / Java files
+.idea/
+.solution.json
+out/
+*.iml
+build/
+.gradle/
+
+mono_crash*
+
+#Mac
+.DS_Store
+
+#CSharp
+bin/
+obj/
+.vs
+
+#JetBrains / ReSharper / Rider
+*.[Rr]ider
+*.DotSettings.user
