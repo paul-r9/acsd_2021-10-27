@@ -74,3 +74,4 @@ If you'd like, handle exponentials.
 kata originally from https://exercism.org/
 
 Paul Moore
+Kelley Harris
